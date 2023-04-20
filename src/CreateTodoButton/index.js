@@ -14,6 +14,9 @@ function CreateTodoButton(props){
             onClick={onClickButton}
         >+</button>
     );
+
 }
+
+console.log('hola')
 
 export { CreateTodoButton };

@@ -13,7 +13,7 @@ function TodoSearch(){
         <div>
             <input 
             className="TodoSearch" 
-            placeholder="Cebolla "
+            placeholder="Ingresa Tarea "
             value={searchValue}
             onChange={onSearchValueSearch}
             />
